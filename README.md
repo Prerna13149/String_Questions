@@ -6,5 +6,5 @@
 5) largest_string.cpp - Read N strings from a user and print the largest string
 6) reverse_string.cpp - Write a function to reverse a string.
 7) rotate_string.cpp - Given a string rotate it by n characters. e.g. ifthe string is CodingBlocks and n =3 then the output should be cksCodingBlo 
-8) Write a function to check if two strings are permutations of each other. 
+8) string_permutation.cpp - Write a function to check if two strings are permutations of each other. 
 9) Write a program to print all substrings of a given string
